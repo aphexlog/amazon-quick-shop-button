@@ -2,7 +2,7 @@
   "name": "amazon-quick-shop-button",
   "version": "0.1.0",
   "bin": {
-    "tmp": "index.js"
+    "tmp": "index.ts"
   },
   "scripts": {
     "build": "tsc",
